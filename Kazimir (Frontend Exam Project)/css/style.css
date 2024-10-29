@@ -1,0 +1,21 @@
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
+
+.carousel-inner{
+  /* border: 4px solid red; */
+  height: 500px;
+  width: 700px;
+}
+
+.carousel-item{
+  /* border:3px solid blue; */
+  height:500px;
+}
+
+#computers-carousel{
+  /* border:3px solid yellow; */
+  width:700px;
+  margin:0 auto;
+}
